@@ -6,9 +6,11 @@ We are archiving the articles from [Secjuice.com](https://www.secjuice.com) and 
 
 It will take some time until all the articles are archived in this git repository.
 
-## Donate
+## Help Support Our Non-Profit Mission
 
-Help support Secjuice by making a tax-deductible donation on [Open Collective](https://opencollective.com/secjuice).
+If you enjoyed our articles or found them helpful please consider making a **U.S. tax-deductible** donation. Secjuice is a non-profit and volunteer-based publication powered by donations. We will use your donation to help cover our hosting costs and **keep Secjuice an advertisement and sponsor free zone**.
+
+[Make a tax-deductible donation](https://opencollective.com/secjuice)
 
 ## [The CMMC Countdown: Why Your Company Needs to Prepare for 2025 Now, Part 1](./posts/cmmc.md)
 
