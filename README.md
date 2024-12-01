@@ -10,10 +10,11 @@ It will take some time until all the articles are archived in this git repositor
 
 Help support Secjuice by making a tax-deductible donation on [Open Collective](https://opencollective.com/secjuice).
 
+## [The CMMC Countdown: Why Your Company Needs to Prepare for 2025 Now, Part 1](./posts/cmmc.md)
 
-Cyber security threats never stop. A technology gets created, a vulnerability is discovered within it, the vuln gets patched, only for a new vuln to be found – rinse, repeat.
+Prepare your company for CMMC 2.0 compliance by 2025 with our guide on Azure tenant selection and System Security Plan creation to stay ahead in cybersecurity readiness.
 
-Ross Moore • Mar 15, 2024 • 16 min read
+Miguel A. Calles • Feb 5, 2024 • 3 min read
 
 ## [Use OSINT to Investigate a Phishing Scam](./posts/use-osint-to-investigate-a-phishing-scam.md)
 
@@ -22,6 +23,10 @@ One of the greatest tools for infosec professionals to investigate and prevent p
 Tom Caliendo • Mar 12, 2024 • 14 min read
 
 ## [Top 3 Threats of 2024 and How To Protect Against Them](./posts/edit-3.md)
+
+Cyber security threats never stop. A technology gets created, a vulnerability is discovered within it, the vuln gets patched, only for a new vuln to be found – rinse, repeat.
+
+Ross Moore • Mar 15, 2024 • 16 min read
 ## [Age Verification: An Analysis of its Effectiveness & Risks](./posts/age-verification-analysis.md)
 
 Age verification laws have been suddenly rolling out in the USA. In this article, we will navigate through a complex analysis, as I seek to stimulate your thoughts rather than impose conclusions. Today's discussion centers on age verification protocols implemented on pornography websites.
