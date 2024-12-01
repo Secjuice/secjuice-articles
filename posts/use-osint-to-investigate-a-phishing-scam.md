@@ -1,5 +1,5 @@
 ---
-id: use-osint-to-investigate-a-phishing-scam/
+id: use-osint-to-investigate-a-phishing-scam
 title: Use OSINT to Investigate a Phishing Scam
 description: One of the greatest tools for infosec professionals to investigate and prevent phishing scams is actually just a collection of websites that produce information that is free and open to the public, also known as Open Source Intelligence (OSINT).
 author: Tom Caliendo
