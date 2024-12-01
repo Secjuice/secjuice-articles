@@ -6,7 +6,7 @@ We are archiving the articles from [Secjuice.com](https://www.secjuice.com) and 
 
 It will take some time until all the articles are archived in this git repository.
 
-# Donate
+## Donate
 
 Help support Secjuice by making a tax-deductible donation on [Open Collective](https://opencollective.com/secjuice).
 
