@@ -34,7 +34,7 @@ Learn how Black Basta’s double extortion tactics works.
 
 Ross Moore • Oct 31, 2024 • 14 min read
 
-## [The CMMC Countdown, Part 2](./posts/2024-10-31T15-28-44-000Z.md)
+## [The CMMC Countdown: The Action Plan, Part 2](./posts/2024-10-31T15-28-44-000Z.md)
 
 Start your CMMC action plan with this high-level review of the five-point controls required to get a conditional certificate.
 
@@ -64,7 +64,7 @@ Learn how to hack the box with this simple, vulnerable box. A simple nmap scan r
 
 Andy74 • Nov 24, 2024 • 13 min read
 
-## [The CMMC Countdown, Part 3](./posts/2024-11-25T03-05-26-000Z.md)
+## [The CMMC Countdown: The Action Plan, Part 3](./posts/2024-11-25T03-05-26-000Z.md)
 
 Continue your CMMC action plan with this high-level review of the five-point controls required to get a conditional certificate.
 
